@@ -1,6 +1,6 @@
 {
 	"name": "emoji-icon-fun-theme",
-	"displayName": "Emoji File Icons",
+	"displayName": "✨ Emoji File Icons ✨",
 	"description": "Emoji Icon theme",
 	"icon": "thumbnails/folder-open.png",
 	"galleryBanner": {
@@ -12,8 +12,8 @@
 		"url": "https://github.com/lineville/vscode-emoji-icons/"
 	},
 	"author": "lineville",
-	"publisher": "lineville",
-	"version": "1.0.0",
+	"publisher": "LiamNeville",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
