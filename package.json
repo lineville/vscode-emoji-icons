@@ -1,7 +1,7 @@
 {
-	"name": "emoji-icons",
+	"name": "emoji-icon-fun-theme",
 	"displayName": "Emoji File Icons",
-	"description": "Goof around today!",
+	"description": "Emoji Icon theme",
 	"icon": "thumbnails/folder-open.png",
 	"galleryBanner": {
 		"color": "#23282f",
@@ -9,11 +9,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mightbesimon/vscode-emoji-icons/"
+		"url": "https://github.com/lineville/vscode-emoji-icons/"
 	},
-	"author": "mightbesimon",
-	"publisher": "mightbesimon",
-	"version": "0.99.99",
+	"author": "lineville",
+	"publisher": "lineville",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
@@ -23,21 +23,16 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "emoji-file-icons",
+				"id": "emoji-file-icons-fun",
 				"label": "Emoji File Icons",
 				"path": "./file-icons/emoji-icon-theme.json"
 			}
 		],
 		"productIconThemes": [
 			{
-				"id": "emoji-product-icons",
+				"id": "emoji-product-icons-fun",
 				"label": "Emoji Product Icons",
 				"path": "./product-icons/emoji-product-icon-theme.json"
-			},
-			{
-				"id": "emoji-product-icons-serious",
-				"label": "Emoji Product Icons (Serious)",
-				"path": "./product-icons/emoji-serious-product-icon-theme.json"
 			}
 		]
 	}
